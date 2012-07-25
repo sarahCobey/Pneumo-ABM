@@ -134,5 +134,3 @@ The software and its documentation are in the public domain and are furnished "a
 Support
 -------
 There is no support. I will nonetheless try to reply to reasonable requests for clarification. Email scobey@hsph.harvard.edu.
-
->>>>>>> fd139e9e35252b60630726054f3a855236ac2f24
