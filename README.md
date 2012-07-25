@@ -1,6 +1,7 @@
 Pneumo-ABM
 ==========
 
+<<<<<<< HEAD
 Pneumo-ABM simulates an agent-based model of the dynamics of multiple pneumococcal serotypes and, optionally, a single strain of *Haemophilus influenzae*. Underlying the transmission model is a host life-history model that simulates birth, death, and the formation and destruction of households. The user can choose to ignore this demographic structure or to make transmission probabilities depend on host age and/or household membership. In addition, the model can simulate the effects of a pneumococcal vaccine targeting any subset of serotypes. It also includes a very simple, optional optimizer to fit the transmission rate to obtain a given prevalence in children.
 
 
@@ -134,3 +135,6 @@ The software and its documentation are in the public domain and are furnished "a
 Support
 -------
 There is no support. I will nonetheless try to reply to reasonable requests for clarification. Email scobey@hsph.harvard.edu.
+=======
+Individual-based model of pneumococcus transmission
+>>>>>>> fd139e9e35252b60630726054f3a855236ac2f24
