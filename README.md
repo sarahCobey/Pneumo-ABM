@@ -8,7 +8,7 @@ Relevant citations
 ------------------
 Cobey, S. and M. Lipsitch. 2012. Niche and neutral effects of acquired immunity permit coexistence of pneumococcal serotypes. *Science* 335(6074):1376-1380. doi: 10.1126/science.1215947
 
-Cobey, S. and M. Lipsitch. Pathogen coexistence through hidden regimes of apparent competition. 2013. *American Naturalist* 181(1):12-24. doi: 10.1086/668598
+Cobey, S. and M. Lipsitch. 2013. Pathogen coexistence through hidden regimes of apparent competition. *American Naturalist* 181(1):12-24. doi: 10.1086/668598
 
 
 Good things to know
@@ -54,7 +54,7 @@ Please see `Parameters.h`.
 ###File inputs
 Sample input files have been included in the release. There is minimal validation of input files, so check yours carefully.
 
-* `Associated_treatments.txt`<br>The values of serotype-specific immunity for which estimates of beta, the transmission rate, are given in `Betas_used.txt`. The program will compare its serotype-specific immunity (the treatment value) to the ones listed here and select the index whose value is closest. If you want to run a simulation with serotype-specific immunity of 0.3 and a particular transmission rate, add 0.3 to this file and the transmission rate in `Betas_used.txt` (at the same index). If you fitting a new transmission rate, put one or more educated guesses in these files. 
+* `Associated_treatments.txt`<br>The values of serotype-specific immunity for which estimates of beta, the transmission rate, are given in `Betas_used.txt`. The program will compare its serotype-specific immunity (the treatment value) to the ones listed here and select the index whose value is closest. If you want to run a simulation with serotype-specific immunity of 0.3 and a particular transmission rate, add 0.3 to this file and the transmission rate in `Betas_used.txt` (at the same index). If you are fitting a new transmission rate, put one or more educated guesses in these files. 
 
 * `Betas_used.txt`<br>Transmission rates corresponding to the values of serotype-specific immunity listed in `Associated_treatments.txt`. If `MATCH_PREVALENCE` is defined in `Parameters.h`, one of these will be the starting value of beta (the one whose associated treatment most closely matches the defined value of serotype-specific immunity). If `MATCH_PREVALENCE` is not defined, the simulation will be run with one of these values.
 
