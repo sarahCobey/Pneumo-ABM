@@ -8,7 +8,7 @@ Relevant citations
 ------------------
 Cobey, S. and M. Lipsitch. 2012. Niche and neutral effects of acquired immunity permit coexistence of pneumococcal serotypes. *Science* 335(6074):1376-1380. doi: 10.1126/science.1215947
 
-Cobey, S. and M. Lipsitch. Pathogen coexistence through hidden regimes of apparent competition. 2013. American Naturalist 181(1):12-24.
+Cobey, S. and M. Lipsitch. Pathogen coexistence through hidden regimes of apparent competition. 2013. *American Naturalist* 181(1):12-24. doi: 10.1086/668598
 
 
 Good things to know
