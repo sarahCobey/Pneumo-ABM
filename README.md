@@ -133,4 +133,4 @@ The software and its documentation are in the public domain and are furnished "a
 
 Support
 -------
-There is no support. I will nonetheless try to reply to reasonable requests for clarification. Email scobey@hsph.harvard.edu.
+There is no support. I will nonetheless try to reply to reasonable requests for clarification. Email cobey@uchicago.edu.
